@@ -26,5 +26,11 @@ Create a factory to generate file processors. This allows for scalability if you
 Create a controller to handle file processing requests.
 # Step: 6
 Run the application
+# Directory Path Screenshot:
+![DirectoryPath](https://github.com/user-attachments/assets/e5d01ef7-90be-431d-bac9-ae707941a544)
 
+# Api Screenshot
+![1](https://github.com/user-attachments/assets/b576cf19-6741-4ce1-94c7-e607b7a46512)
+
+![2](https://github.com/user-attachments/assets/3d6f0a6f-f8b8-4bdd-b108-1a0575a9b05a)
 .rar file attached in the repository
